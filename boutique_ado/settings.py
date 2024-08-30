@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-rdhadda-boutiqueado-c7b1ldngvsy.ws.codeinstitute-ide.net', 'boutique-ado-rd.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['8000-rdhadda-boutiqueado-c7b1ldngvsy.ws.codeinstitute-ide.net', 'boutique-ado-rd-41376c9fdfed.herokuapp.com', 'localhost']
 
 
 # Application definition
